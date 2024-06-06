@@ -63,6 +63,22 @@
       "December": {"high": 76, "low": 66}
     }
   },
+  "Japan":{
+    "Tokiyo":{   
+      "January": {"high": 57, "low": 46},
+      "February": {"high": 59, "low": 47},
+      "March": {"high": 61, "low": 49},
+      "April": {"high": 65, "low": 52},
+      "May": {"high": 71, "low": 55},
+      "June": {"high": 77, "low": 60},
+      "July": {"high": 81, "low": 64},
+      "August": {"high": 81, "low": 64},
+      "September": {"high": 77, "low": 61},
+      "October": {"high": 69, "low": 58},
+      "November": {"high": 63, "low": 53},
+      "December": {"high": 58, "low": 48}
+    }
+  },
   "Portugal": {
     "Lisbon": {
       "January": {"high": 57, "low": 46},
